@@ -3,4 +3,7 @@
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.webStudy.jhsun.moneyBook.Mapper.moneyBookMapper">
 
+    <select id="deleteByPrimaryKey" parameterType="String">
+
+    </select>
 </mapper>
