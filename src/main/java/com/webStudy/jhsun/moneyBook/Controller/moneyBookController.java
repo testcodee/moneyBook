@@ -1,4 +1,4 @@
-package com.webStudy.jhsun.moneyBook;
+package com.webStudy.jhsun.moneyBook.Controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
